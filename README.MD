@@ -1,0 +1,1 @@
+This was my very first assignment at Prime Digital Academy. It was in week1 of the pre-work phase and just required me to link a javascript and css file to my html with the ever popular "Hello World!" phrase.
